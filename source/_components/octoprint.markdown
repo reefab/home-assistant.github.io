@@ -22,8 +22,8 @@ To get started with the OctoPrint API, please follow the directions on their [si
 
 ```yaml
 octoprint:
-  host: YOUR_OCTOPRINT_HOST
-  api_key: YOUR_API_KEY
+  - host: YOUR_OCTOPRINT_HOST
+    api_key: YOUR_API_KEY
 ```
 
 {% configuration %}
